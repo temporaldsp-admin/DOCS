@@ -24,9 +24,8 @@ These rules apply to every project, every session, without exception:
 4. No git submodules — Swift Package Manager handles all SDK dependencies
 5. SDK features must exist and be tested before being implemented in any product
 6. Rust is reserved for the legacy License Manager only — everything else is Swift
-7. No commercial release until M5 Studio is acquired and Apple Silicon validated
-8. `STAGING/` is local only — never pushed, never referenced in any remote
-9. `Package.resolved` — never commit in SDK libraries, always commit in AU/App projects
+7. `STAGING/` is local only — never pushed, never referenced in any remote
+8. `Package.resolved` — never commit in SDK libraries, always commit in AU/App projects
 
 ---
 
@@ -38,8 +37,7 @@ These rules apply to every project, every session, without exception:
 | Licensing (legacy) | Rust · Tauri · React/TypeScript |
 | Licensing (next) | Swift — deferred until first AUv3 beta complete |
 | Scripts | Python 3 |
-| Cloud | Cloudflare Workers · Firebase Spark · Stripe |
-| IDE | Xcode · VS Code |
+
 
 ---
 
