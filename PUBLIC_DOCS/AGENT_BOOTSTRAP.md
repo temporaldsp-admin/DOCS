@@ -93,7 +93,7 @@ Fetch only when your task requires it — do not load everything by default:
 ```
 Phase 0  ACTIVE   SDK hardening + first AUv3 plugin beta
 Phase 1  PENDING  License Manager (Swift) — deferred until AUv3 beta
-Phase 2  2027     M5 acquisition → first commercial releases
+Phase 2  2027     Apple Silicon Validation + Production of commercial SDKs
 Phase 3  2027+    Expanding the AUv3 ecosystem
 ```
 
